@@ -1,2 +1,2 @@
-hello
+hello changemerge
 this is an edit made by serah to se if merge conflict occurs
