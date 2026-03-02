@@ -1,1 +1,1 @@
-merge conflict example
+Serah tries to merge file with same name.
